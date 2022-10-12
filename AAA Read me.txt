@@ -1,0 +1,2 @@
+You must install processing to run the program.
+Click ProgrammingProject19 to start.
